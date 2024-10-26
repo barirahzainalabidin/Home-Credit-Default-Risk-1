@@ -25,13 +25,8 @@ This project to predict how capable each applicant is of repaying a loan?
 
 
 
-# b. My metric area under the ROC curve scored is 0.958
 
-
-![photo](https://github.com/barirahzainalabidin/Home-Credit-Default-Risk-1/blob/main/Screenshot%202024-10-26%2021.04.18.png)
-
-
-# c. My visualization result 
+# b. My visualization result and metric area under the ROC curve scored is 0.958
 
 
 ![photo](https://github.com/barirahzainalabidin/Home-Credit-Default-Risk-1/blob/main/Screenshot%202024-10-26%2021.05.43.png)
