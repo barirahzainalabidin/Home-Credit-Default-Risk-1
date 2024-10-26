@@ -25,14 +25,10 @@ This project to predict how capable each applicant is of repaying a loan?
 
 
 
-# b. My metric ROC AUC scored is 0.76151 same with leaderboard score in kaggle
+# b. My metric ROC AUC scored is 0.76151
 
 
 ![photo](https://github.com/barirahzainalabidin/Home-Credit-Default-Risk-1/blob/main/Screenshot%202024-10-26%2021.04.18.png)
-
-
-![photo](https://github.com/barirahzainalabidin/Home-Credit-Default-Risk-1/blob/main/Screenshot%202024-10-26%2021.03.45.png)
-
 
 
 # c. My visualization result 
